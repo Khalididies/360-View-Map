@@ -8,6 +8,13 @@
 >* CSS
 >* JAVASCRIPT
 >* PYTHON
-
+## Code is Private :lock:
+> ```
+>if (you want code for web == True){
+>  send email to ( khaliddies95@gmail.com )
+>}
+> ```
 ## Demo : 
 ><img src="https://github.com/Khalididies/360-View-Map/blob/main/Images/map.gif" width="600" height="403">
+## Comments / Questions
+>You can reach me at [linkedin](https://www.linkedin.com/in/khalid-dies-195797203/)
